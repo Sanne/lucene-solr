@@ -22,7 +22,7 @@ parent.iml
 /prj.el
 /bin
 /bin.*
-**/pom.xml
+#**/pom.xml
 /nbproject
 /nb-build
 
