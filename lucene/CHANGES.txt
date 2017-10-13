@@ -3,6 +3,10 @@ Lucene Change Log
 For more information on past and future Lucene versions, please see:
 http://s.apache.org/luceneversions
 
+Additional patches:
+
+* SOLR-11477: Disallow resolving of external entities in queryparser/xml/CoreParser
+  by default. (Michael Stepankin, Olga Barinova, Uwe Schindler, Christine Poerschke)
 
 ======================= Lucene 5.3.1 =======================
 
